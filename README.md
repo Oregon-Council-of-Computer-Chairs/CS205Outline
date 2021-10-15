@@ -1,6 +1,6 @@
 # CS205 Outline
 
-This repository contains the CS205 course outline being prepared as part of the Oregon Computer Science
+This repository contains the CS205 course approved as part of the Oregon Computer Science
 Major Transfer Map.
 
 ## Releases
@@ -15,6 +15,6 @@ copy.
 * UsefulResources.tex - Code samples and other resources
 * common_includes.tex - document setup
 
-## Editing
+## Updates
 
-To contribute changes, contact Andrew Scholer or submit a pull request.
+Any substantive updates to CS205 should be approved by the OCCC.
